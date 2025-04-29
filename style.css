@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Sofadi+One&display=swap');
+
+
+body {
+
+background-image:url(https://images.unsplash.com/photo-1701105040869-40cb9a5bbe6c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+
+            background-color: #121212;
+            color: white;
+            font-weight:700;
+            font-family: 'Arial';
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            padding-top:40px;
+        }
+        
+        h2 {
+        
+            font-size: 24px;
+        }
+        
+        .container {
+        
+            padding:12px;
+            border-radius:5px;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter:blur(3px);
+            box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+        }
+        
+        input {
+    
+            width: 100%;
+            padding: 10px;
+            margin: 10px ;
+            font-family:('DM Sans', 'sans-serif');
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            font-size: 16px;
+        }
+        
+        
+        
+        button {
+        
+        transition: 0.3s;
+            background: #ff5722;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        button:hover {
+            background: #e64a19;
+        }
+        
+        p {
+            margin-top: 10px;
+        }
+
+
+h4 {
+    
+    font-size: 24px;
+    font-family: "Pacifico",cursive;
+    text-shadow:1px 1px 2px black;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
