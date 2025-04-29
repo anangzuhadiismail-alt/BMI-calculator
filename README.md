@@ -44,7 +44,8 @@ Made with 💙 by [Anang Zuhadi](https://github.com/username)
 ## 🔗 Live Preview
 
 Klik link di bawah untuk mencoba aplikasi ini secara langsung:  
-👉 [https://anangzuhadismail-alt.github.io/BMI-calculator/](https://anangzuhadismail-alt.github.io/BMI-calculator/)
+👉 https://anangzuhadiismail-alt.github.io/BMI-calculator/
+
 
 
 ---
